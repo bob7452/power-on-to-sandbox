@@ -1,0 +1,8 @@
+linux/
+busybox/
+＿＿＿＿          # QEMU 原始碼（第 9 週才會有）
+*.qcow2
+*.img
+＿＿＿＿          # 打包好的 initramfs
+*.ko
+*.o
